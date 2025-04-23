@@ -7,4 +7,4 @@
 <br/>
 [Level 2 Course Conceptual Sessions](https://github.com/mehedi-imun/pre-enrollment-bootcamp)
 <br/>
-[react awesome component] (https://github.com/brillout/awesome-react-components)
+[react awesome component](https://github.com/brillout/awesome-react-components)
