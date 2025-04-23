@@ -1,5 +1,5 @@
 # study-by-mobile Level 2 Course Conceptual Sessions 
-[Session-1 Resources🥇](https://javascript.info/)
+[Session-1 Resources1](https://javascript.info/)
 <br/>
 [Session-1 Resources🐈](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 <br/>
